@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nuts">
+        <item>땅콩</item>
+        <item>대두</item>
+        <item>마카다미아</item>
+        <item>멜린조</item>
+        <item>비자나무</item>
+        <item>아몬드</item>
+        <item>원두</item>
+        <item>은행나무열매</item>
+        <item>수박씨</item>
+        <item>잣</item>
+        <item>카카오닙스</item>
+        <item>캐슈넛</item>
+        <item>코코넛</item>
+        <item>타이거넛</item>
+        <item>피스타치오</item>
+        <item>피칸</item>
+        <item>해바라기씨</item>
+        <item>호두</item>
+        <item>호박씨</item>
+        <item>사차인치</item>
+    </string-array>
+</resources>
